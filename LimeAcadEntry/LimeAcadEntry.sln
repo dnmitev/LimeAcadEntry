@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FizzBuzz", "FizzBuzz\01.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Braces", "Braces\02.Braces.csproj", "{88DF37FC-F01B-499C-99B1-1EF232F773AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Movies", "Movies\03.Movies.csproj", "{A3791114-0370-4F2F-A2BD-9534B8EEF566}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{88DF37FC-F01B-499C-99B1-1EF232F773AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88DF37FC-F01B-499C-99B1-1EF232F773AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88DF37FC-F01B-499C-99B1-1EF232F773AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3791114-0370-4F2F-A2BD-9534B8EEF566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3791114-0370-4F2F-A2BD-9534B8EEF566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3791114-0370-4F2F-A2BD-9534B8EEF566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3791114-0370-4F2F-A2BD-9534B8EEF566}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
